@@ -99,7 +99,10 @@
 &kp TAB     &kp Q      &kp W       &kp E       &kp R      &kp T           &kp Y       &kp U      &kp I      &kp O        &kp P         &kp MINUS
 &kp LSHIFT  &kp A      &kp S       &kp D       &kp F      &kp G           &kp H       &kp J      &kp K      &kp L        &kp SEMI      &kp SINGLE_QUOTE
 &kp LCTRL   &kp Z      &kp X       &kp C       &kp V      &kp B           &kp N       &kp M      &kp COMMA  &kp DOT      &kp FSLH      &kp RSHIFT
-            &kp BSLH  &kp SPACE   &mo LOWER   &kp HOME   &kp BSPC        &kp DEL     &kp RALT   &mo RAISE  &kp ENTER    &kp LEFT_WIN
+            &kp HOME   &kp LCTRL   &mo BSPC   &kp SPACE  &kp MINUS        &kp DEL     &kp RALT   &mo RAISE  &kp ENTER    &kp LEFT_WIN
+//           assume4    key 1        asume5     key 2      key 3
+// In thumb cluser my wireing doesn't line up perfectly
+
                          
             >;
         };
